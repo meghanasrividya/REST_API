@@ -3,7 +3,7 @@
 # pip install requests
 import requests
 # valid post-code or invalid - url of the API address
-url=
+
 
 # Get
 #request_bbc_status_code = requests.get("https://www.bbc.co.uk/iplayer/live/bbcnews")
